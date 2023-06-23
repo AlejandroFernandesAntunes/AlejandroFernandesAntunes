@@ -1,6 +1,4 @@
-Ale's GitHub Profile
-
-Welcome to my GitHub profile! I'm Alejandro, a passionate and skilled software developer with a focus on creating innovative solutions. This repository serves as a comprehensive overview of my projects and contributions, showcasing my expertise and the breadth of my technical knowledge.
+Welcome to my GitHub profile! I'm Alejandro, a passionate and skilled software developer with a focus on creating innovative solutions.
 
 ## About Me
 
