@@ -1,5 +1,4 @@
-Welcome to my GitHub profile! I'm Alejandro, a passionate and skilled software developer with a focus on creating innovative solutions.
+Welcome to my GitHub profile! I'm Alejandro, a seasoned technology leader dedicated to driving innovation through software solutions.
 
-## About Me
-
-I am a highly motivated and detail-oriented developer who thrives in challenging environments. With a strong foundation in full-stack development, I excel at transforming complex problems into elegant and efficient code. My expertise encompasses a wide range of programming languages and frameworks, allowing me to adapt to different project requirements with ease.
+## About Me
+I am a visionary and results-driven professional with a proven track record in leading high-performing teams and delivering transformative technology solutions. With a robust background in full-stack development, I specialize in architecting scalable and efficient systems that solve complex business challenges. My proficiency spans across various programming languages and frameworks, enabling me to deliver impactful results aligned with strategic business goals.
